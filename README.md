@@ -2,7 +2,7 @@
 
 Feature Box is a simple, elegant and super easy to use JS plugin which can make simple sentences become really dynamic and cool! One small example is : 
 
-<p data-height="213" data-theme-id="dark" data-slug-hash="MoebYg" data-default-tab="result" data-user="adk96r" data-embed-version="2" data-pen-title="Feature Box JS Plugin" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/adk96r/pen/MoebYg/">Feature Box JS Plugin</a> by Adk (<a href="https://codepen.io/adk96r">@adk96r</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<p data-height="213" data-theme-id="dark" data-slug-hash="MoebYg" data-default-tab="result" data-user="adk96r" data-embed-version="2" data-pen-title="Feature Box JS Plugin" class="codepen">See the Pen <a href="https://codepen.io/adk96r/pen/MoebYg/">Feature Box JS Plugin</a> by Adk (<a href="https://codepen.io/adk96r">@adk96r</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 So to use this, all you need to do is :
