@@ -7,6 +7,8 @@ Feature Box is a simple, elegant and super easy to use JS plugin which can make 
 
 This was inspired by the [Nokia 808 TVC](https://www.youtube.com/watch?v=Loh4SmmpQnY)
 
+This plugin also needs __JQuery__ to work.
+
 So to use this, all you need to do is :
 #### 1.Create a #id element:
 ```html
